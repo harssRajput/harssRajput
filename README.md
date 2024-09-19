@@ -1,5 +1,5 @@
 - 👋 Hi, This ugly face is @harssRajput
-- 👀 Interested in technology, yea it's too vague but i'm always curious to know how things working and how to expand their horizon...and currently destructuring computer stuffs
+- 👀 Interested in technology, yea it's too vague but i'm always curious to know what's working behind it and behind it and then behind it until I get tired and stop...and currently destructuring computer stuffs
 - 🌱 Currently learning web development and competitive coding.
 
 <!---
